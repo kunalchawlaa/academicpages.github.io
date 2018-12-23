@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kunal Chawla / Personal Site"
+title                    : "Kunal Chawla"
 title_separator          : "-"
 name                     : &name "Kunal Chawla"
 description              : &description "personal description"
