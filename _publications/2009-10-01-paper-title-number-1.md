@@ -3,8 +3,8 @@ title: "Attention-based Ensemble for Deep Metric Learning"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'We propose an ensembling technique for deep metric learning, based on multiple attention-based leaners.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2018-10-08
+venue: 'European Conference on Computer Vision(ECCV) 2018'
 paperurl: 'https://arxiv.org/abs/1804.00382'
 citation: 'Kim, W., Goyal, B., Chawla, K., Lee, J., & Kwon, K. (2018). Attention-based Ensemble for Deep Metric Learning. arXiv preprint arXiv:1804.00382.'
 ---
