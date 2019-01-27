@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
+  username               : kunalchawlaa
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kunal-chawla-a9725ba4/"
+  linkedin         : "kunal-chawla-a9725ba4"
   orcid            :
   pinterest        :
   soundcloud       :
