@@ -11,3 +11,6 @@ main:
 
   - title: "History"
     url: /history/
+
+  - title: "Contact"
+    url: /contact/
